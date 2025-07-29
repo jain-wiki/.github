@@ -1,7 +1,7 @@
 # Hi there 👋
 Jain.wiki is a community of Jain Volunteers to maintain following Projects hossted on jain.wiki
 
-- Jain Atlas - Database of Jain Places like Temples, Schools, Hostel, Hospital.
+- [Jain Atlas](https://github.com/jain-wiki/atlas) - Database of Jain Places like Temples, Schools, Hostel, Hospital.
 - Jain Stavan - Database os Stavans
 
 <!--
